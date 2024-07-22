@@ -1,9 +1,21 @@
 👋 Hi, I’m @Roestdev (a.k.a. Willem)
 
-🌱 I’m currently learning Biblical Hebrew and Rust.
+Currently I am trying to lear Biblical Hebrew and Rust. 😄
 
-&nbsp;&nbsp;&nbsp;&nbsp;While learning these two languages I decided to combine them.  
-&nbsp;&nbsp;&nbsp;&nbsp;So I started writing a Rust program (*swlc-rs*) to search the Westminster Leningrad Codex (WLC).  
+While learning these two languages I decided to combine them.  
+So I started writing a Rust program ( to search the Westminster Leningrad Codex (WLC).
+
+My current idea/view is the following:
+1. A main crate ([**swlc-rs**](https://github.com/Roestdev/swlc-rs)), which contain the following workspaces:
+ -  a number of specific common libraries 
+ -  a code generator
+ -  a CLI
+ -  a GUI
+2. General library crates (two at this moment)
+-  [**hebrew_unicode_script**](https://github.com/Roestdev/hebrew_unicode_script) low-level crate 
+-  [**hebrew_unicode_utils**](https://github.com/Roestdev/hebrew_unicode_utils)  use the low-level crate
+
+
 
 
 
