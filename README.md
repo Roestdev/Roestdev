@@ -3,7 +3,7 @@
 🌱 I’m currently learning Biblical Hebrew and Rust.
 
 &nbsp;&nbsp;&nbsp;&nbsp;While learning these two languages I decided to combine them.  
-&nbsp;&nbsp;&nbsp;&nbsp;So I started writing a Rust program to search the Westminster Leningrad Codex (WLC).  
+&nbsp;&nbsp;&nbsp;&nbsp;So I started writing a Rust program (*swlc-rs*) to search the Westminster Leningrad Codex (WLC).  
 
 
 
