@@ -1,6 +1,6 @@
 👋 Hi, I’m @Roestdev (a.k.a. Willem)
 
-Currently I am trying to lear Biblical Hebrew and Rust. 😄
+Currently I am trying to learn Biblical Hebrew and Rust. 😄
 
 While learning these two languages I decided to combine them.  
 So I started writing a Rust program ( to search the Westminster Leningrad Codex (WLC).
