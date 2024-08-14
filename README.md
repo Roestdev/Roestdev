@@ -7,10 +7,10 @@ So I started writing a Rust program ( to search the Westminster Leningrad Codex 
 
 My current idea/view is the following:
 1. A main crate ([**swlc-rs**](https://github.com/Roestdev/swlc-rs)), which contain the following workspaces:
- -  a number of specific common libraries 
- -  a code generator
- -  a CLI
- -  a GUI
+ -  a number of specific common libraries (lib)
+ -  a code generator (bin)
+ -  a CLI (bin)
+ -  a GUI (bin)
 2. General library crates (two at this moment)
 -  [**hebrew_unicode_script**](https://github.com/Roestdev/hebrew_unicode_script) low-level crate (work in progress)   
 -  [**hebrew_unicode_utils**](https://github.com/Roestdev/hebrew_unicode_utils)  will use the low-level crate (only a quick setup)
