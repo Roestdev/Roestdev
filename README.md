@@ -12,7 +12,7 @@ My current idea/view is the following:
  -  a CLI (bin)
  -  a GUI (bin)
 2. General library crates (two at this moment)
--  [**hebrew_unicode_script**](https://github.com/Roestdev/hebrew_unicode_script) low-level crate (work in progress)   
+-  [**hebrew_unicode_script**](https://github.com/Roestdev/hebrew_unicode_script) low-level crate (ready to use)   
 -  [**hebrew_unicode_utils**](https://github.com/Roestdev/hebrew_unicode_utils)  will use the low-level crate (only a quick setup)
 
 
