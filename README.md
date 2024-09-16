@@ -6,7 +6,7 @@ While learning these two languages I decided to combine them.
 So I started writing a Rust program ( to search the Westminster Leningrad Codex (WLC).
 
 My current idea/view is the following:
-1. A main crate ([**swlc-rs**](https://github.com/Roestdev/swlc-rs)), which contain the following workspaces:
+1. A main crate ([**swlc**](https://github.com/Roestdev/swlc)), which contain the following workspaces:
  -  a number of specific common libraries (lib)
  -  a code generator (bin)
  -  a CLI (bin)
